@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cookieandsession" />
+    <file type="web" url="file://$PROJECT_DIR$/filter" />
+    <file type="web" url="file://$PROJECT_DIR$/javaweb-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/pagequery" />
+    <file type="web" url="file://$PROJECT_DIR$/request" />
+    <file type="web" url="file://$PROJECT_DIR$/response" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet01" />
+    <file type="web" url="file://$PROJECT_DIR$/sms" />
+    <file type="web" url="file://$PROJECT_DIR$/supermarketbuymanagesystem" />
+    <file type="web" url="file://$PROJECT_DIR$/verification-code" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/verification-code/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
